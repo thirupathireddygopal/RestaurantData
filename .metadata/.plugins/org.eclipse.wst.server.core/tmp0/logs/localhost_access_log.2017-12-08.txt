@@ -1,0 +1,6 @@
+127.0.0.1 - - [08/Dec/2017:18:17:48 +0530] "GET / HTTP/1.1" 404 1073
+127.0.0.1 - - [08/Dec/2017:18:17:49 +0530] "GET /Urbanspoon/ HTTP/1.1" 302 -
+127.0.0.1 - - [08/Dec/2017:18:17:50 +0530] "GET /Urbanspoon/UrbanspoonController HTTP/1.1" 200 411
+127.0.0.1 - - [08/Dec/2017:18:19:58 +0530] "GET / HTTP/1.1" 404 1073
+127.0.0.1 - - [08/Dec/2017:18:19:59 +0530] "GET /Urbanspoon/ HTTP/1.1" 302 -
+127.0.0.1 - - [08/Dec/2017:18:20:00 +0530] "GET /Urbanspoon/UrbanspoonController HTTP/1.1" 200 18830

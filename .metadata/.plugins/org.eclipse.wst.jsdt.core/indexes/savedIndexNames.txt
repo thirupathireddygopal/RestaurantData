@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/home/tsuser/Desktop/Thiru-Spring/RestaurantData/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2899537846.index
